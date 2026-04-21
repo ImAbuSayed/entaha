@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit d1339013cf80ceb0dadaae752e3d51fc817c1c85
+> نور عينيك في عتمة الليل يبان
+> قلبي ينادي، فين هذا الزمان
+> شوقي ليك بحر ما له شطآن
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
